@@ -23,7 +23,7 @@
 			- 네임노드(마스터 서버) :  파일 메타 데이터 관리
 			- 데이터 노드 : 데이터 저장 + 데이터 제공
 
-	<center><img  src="https://lh3.googleusercontent.com/proxy/HBkp0rdnbLXhT38YYiycMNWAXM-KA_R0fM76qNCDfRTBQUWeOt7bLWvuT5mb1Z6-om7c_t6_GvBMT2hOXbTbXLSxJdUmoo8d_MVE5d84SiH1_XGpQu3PaNGWZJePgsjwRC8b7E88pZ8-5CjYHqc_p6gz" height="300"></center>
+	<center><img  src="https://hadoop.apache.org/docs/r1.2.1/images/hdfsarchitecture.gif" height="300"></center>
 	
 	- 저장 순서 
 		1. 클라이언트는 네임 노드를 통해 블록이 저장될 데이터 노드 목록 받음
